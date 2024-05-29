@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/FunkyCode/Demos - SmartLighting2D/Demos - Basics (Overlay)/1 - Basic Setup/Basic 1 - Basic Setup.unity.meta
+guid: 2e3498630049c5e4c87adcd1a87bad3c
+=======
+<<<<<<<< HEAD:Assets/00.Scenes/TsumegoSystem/TsumegoTest.unity.meta
+guid: db3b9f25001e0fa4fa935404e5c818f6
+========
+guid: 349a5471f23c73549a8842bbac92fd0a
+folderAsset: yes
+>>>>>>>> TurnSystem:Assets/00.Scenes/MineScene.meta
+>>>>>>> origin/Enemy:Assets/00.Scenes/TsumegoSystem/TsumegoTest.unity.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
